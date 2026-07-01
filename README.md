@@ -81,7 +81,6 @@ Goal
 
 # 📚 Currently Learning
 
-- Advanced React
 - Node.js
 - AI / ML
 - System Design
