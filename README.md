@@ -78,20 +78,6 @@ Goal
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siva240905&theme=tokyo-night"/>
 </p>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=siva240905&theme=algolia&column=4"/>
-</p>
-
-# 🐍 Contribution Snake
-
-```text
-Create a GitHub Action:
-Platane/snk
-Output:
-dist/github-contribution-grid-snake-dark.svg
-```
 
 # 📚 Currently Learning
 
