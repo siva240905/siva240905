@@ -51,11 +51,12 @@ Goal
 
 | Project | Description |
 |---|---|
-| 🛒 Retail Store Management | POS Billing, Inventory, Dashboard using Flask |
+
 | 🎟 Smart Event Entry | QR Authentication, Attendance, Analytics |
 | 🤖 AI Government Scheme Assistant | AI-powered recommendation system |
 | 🚦 Safe Locker V2 | Vehicle compliance monitoring |
 | 📊 Cricket Performance Analysis | Machine Learning & Data Visualization |
+| 🛒 Retail Store Management | POS Billing, Inventory, Dashboard using Flask |
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750865-2e87f3f4-79d5-4c32-9c84-5b8b4f1d0e6d.gif" width="100%">
